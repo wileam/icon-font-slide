@@ -1,5 +1,9 @@
 .reveal section img {
-	border:0;
+    border:0;
+}
+
+body{
+  font-family:"Hiragino Sans GB", "Microsoft YaHei","微软雅黑", "STHeiti", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .social-icons {

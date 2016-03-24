@@ -1563,7 +1563,7 @@ body {
 .reveal.rtl .slides h5,
 .reveal.rtl .slides h6 {
 	direction: rtl;
-	font-family: "微软雅黑",sans-serif;
+	font-family: "Hiragino Sans GB", "微软雅黑", "STHeiti", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .reveal.rtl pre,
